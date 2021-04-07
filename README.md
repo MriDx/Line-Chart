@@ -17,7 +17,7 @@ allprojects {
 
 dependencies {
 ..
-implementation 'com.github,mridx:Line-Chart:0.1'
+implementation 'com.github.mridx:Line-Chart:0.1'
 ..
 }
 ```
