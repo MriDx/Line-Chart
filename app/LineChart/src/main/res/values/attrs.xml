@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineChart">
+        <attr name="lineColor" format="color" />
+        <attr name="cursorColor" format="color" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="cursorWidth" format="dimension" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="showRuler" format="boolean" />
+    </declare-styleable>
+</resources>
