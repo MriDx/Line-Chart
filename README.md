@@ -47,4 +47,4 @@ binding.lineChart.setDataChart(new float[]{5, 1, 2, 3, 5, 6, 7, 8, 9, 8, 13, 10}
 ```
 
 ### Screenshot
-![Screenshot](ss.jpg)
+![Screenshot](ss.png)
